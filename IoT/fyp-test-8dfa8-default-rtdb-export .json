@@ -1,0 +1,17 @@
+{
+  "Auto": "0",
+  "Camera": "0",
+  "Manual": {
+    "Fan": "0",
+    "LED": "0",
+    "Mist": "0",
+    "Pump": "0"
+  },
+  "Online": "0",
+  "sensorReadings": {
+    "humidity": 68.7,
+    "light": 23,
+    "moisture": 53,
+    "temperature": 34.2
+  }
+}
