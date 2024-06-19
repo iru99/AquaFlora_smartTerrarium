@@ -35,7 +35,7 @@ int ldrPin = 32;            // A0 pin on ESP32 for LDR sensor
 
 int lightThreshold = 50;          // Threshold for light
 float temperatureThreshold = 31.0; // Threshold for humidity
-float moistureThreshold = 60.00;   // Threshold
+float moistureThreshold = 68.00;   // Threshold
 float humidityThreshold = 90.00;   // Threshold
 
 bool isAutoMode = false;    // Initially set to Manual Mode
